@@ -1,0 +1,13 @@
+D:\Projects\C#\Square\FormForSquare\bin\Debug\FormForSquare.exe.config
+D:\Projects\C#\Square\FormForSquare\bin\Debug\FormForSquare.exe
+D:\Projects\C#\Square\FormForSquare\bin\Debug\FormForSquare.pdb
+D:\Projects\C#\Square\FormForSquare\bin\Debug\Square.dll
+D:\Projects\C#\Square\FormForSquare\bin\Debug\Square.pdb
+D:\Projects\C#\Square\FormForSquare\obj\Debug\FormForSquare.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Square\FormForSquare\obj\Debug\FormForSquare.Form1.resources
+D:\Projects\C#\Square\FormForSquare\obj\Debug\FormForSquare.Properties.Resources.resources
+D:\Projects\C#\Square\FormForSquare\obj\Debug\FormForSquare.csproj.GenerateResource.cache
+D:\Projects\C#\Square\FormForSquare\obj\Debug\FormForSquare.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Square\FormForSquare\obj\Debug\FormForSquare.csproj.CopyComplete
+D:\Projects\C#\Square\FormForSquare\obj\Debug\FormForSquare.exe
+D:\Projects\C#\Square\FormForSquare\obj\Debug\FormForSquare.pdb
