@@ -1,0 +1,6 @@
+D:\Projects\C#\Square\Square\bin\Debug\Square.dll
+D:\Projects\C#\Square\Square\bin\Debug\Square.pdb
+D:\Projects\C#\Square\Square\obj\Debug\Square.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Square\Square\obj\Debug\Square.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Square\Square\obj\Debug\Square.dll
+D:\Projects\C#\Square\Square\obj\Debug\Square.pdb
